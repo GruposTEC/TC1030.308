@@ -4,7 +4,8 @@ Esto se realiza desde la terminal conel comando
 pip install matplotlib
 """
 
-from calculadora import CalculadoraMaizoro, CalculadoraGrafica
+from calculadora import CalculadoraMaizoro
+from calgrafica import CalculadoraGrafica
 import numpy as np
 
 
